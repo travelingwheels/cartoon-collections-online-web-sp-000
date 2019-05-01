@@ -12,7 +12,7 @@ end
 
 def long_planeteer_calls(array)
   answer = false 
-  if 
+  array.each do |
   
 end
 
