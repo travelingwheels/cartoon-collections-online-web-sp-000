@@ -11,7 +11,8 @@ planeteer_calls
 end
 
 def long_planeteer_calls(array)
-  answer = true 
+  answer = false 
+  if 
   
 end
 
